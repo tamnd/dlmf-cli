@@ -1,0 +1,10 @@
+title       = "dlmf"
+baseURL     = "https://dlmf-cli.tamnd.com/"
+description = "Browse NIST Digital Library of Mathematical Functions"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/dlmf-cli"
